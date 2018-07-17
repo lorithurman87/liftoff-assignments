@@ -141,7 +141,7 @@
 - [Summa, Nicholas (@nsumma147)](https://github.com/nsumma147/liftoff-assignments)
 - Samuel T
 - Jonathan T
-- Lori T
+- [Lori T (@)lorithurman87](https://github.com/lorithurman87/liftoff-assignments)
 - Danielle T
 - Denise T
 - [Tuley, Ariel (@arielsarah)](https://github.com/arielsarah/liftoff-assignments)
